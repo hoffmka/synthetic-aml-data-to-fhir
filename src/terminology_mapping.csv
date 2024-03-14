@@ -1,0 +1,95 @@
+﻿Name;Label;Concept Name;Concept_ID;Vocabulary_ID;OMOP Table
+AMLSTAT;AML status;;;;
+ASXL1;mutation indicator, NGS;ASXL1 gene exon 13 full mutation analysis;99965-6;LOINC;Measurement
+ATRX;mutation indicator, NGS;ATRX gene targeted mutation analysis;53841-3;LOINC;Measurement
+BCOR;mutation indicator, NGS;BCOR (BCL6 corepressor) gene variant;35946879;OMOP Genomic;Measurement
+BCORL1;mutation indicator, NGS;BCOR (BCL6 corepressor) gene variant;35944932;OMOP Genomic;Measurement
+BRAF;mutation indicator, NGS;BRAF gene V600 mutations [Identifier] in Tissue;97025-1;LOINC;Measurement
+BRAF;mutation indicator, NGS;BRAF gene V600 mutations [Identifier] in Plasma-Cell Free DNA;93690-6;LOINC;Measurement
+CALR;mutation indicator, NGS;CALR gene exon 9 targeted mutation analysis;77174-1;LOINC;Measurement
+CBL;mutation indicator, NGS;CBL (Cbl proto-oncogene) gene variant;35955105;OMOP Genomic;Measurement
+CBLB;mutation indicator, NGS;CBLB (Cbl proto-oncogene B) gene variant;35963472;OMOP Genomic;Measurement
+CDKN2A;mutation indicator, NGS;CDKN2A+CDK4 gene mutations found [Identifier] in Blood or Tissue;57927-6;LOINC;Measurement
+CEBPA;CEBPA mutation;CEBPA gene targeted mutation analysis;64012-8;LOINC;Measurement
+CGCX;complex cytogenetic karyotype;GGCX (gamma-glutamyl carboxylase) gene variant measurement;35953825;OMOP Genomic;Measurement
+CGNK;cytogenic normal karyotype;Karyotype evaluation normal;42536186;OMOP Genomic;Measurement
+CR1;first complete remission;CD35 cells/100 cells in Blood;13346-2;LOINC;Measurement
+CSF3R;mutation indicator, NGS;CSF3R gene exons 14&17 targeted mutation analysis;92674-1;LOINC;Measurement
+CUX1;mutation indicator, NGS;CUX1 (cut like homeobox 1) gene variant;35954356;OMOP Genomic;Measurement
+DNMT3A;mutation indicator, NGS;DNMT3A (DNA methyltransferase 3 alpha);35958399;OMOP Genomic;Measurement
+EFSSTAT;status variable for EFSTM;Event;4156363;SNOMED;Observation
+EFSTM;event free survival time;Month;9580;SNOMED;Observation
+ETV6;mutation indicator, NGS;ETV6 gene rearrangements in Tissue by FISH;101380-4;LOINC;Measurement
+EXAML;extramedullary AML;;;;
+EZH2;mutation indicator, NGS;EZH2 gene targeted mutation analysis;96964-2;LOINC;Measurement
+FBXW7;mutation indicator, NGS;FBXW7 gene targeted mutation analysis;100028-0;LOINC;Measurement
+FLT3I;FLT3-ITD mutation status;FLT3-ITD Consensus Call;35956153;OMOP Genomic;Measurement
+FLT3T;FLT3-TKD mutation status;FLT3 (fms related receptor tyrosine kinase 3) gene variant measurement;35956153;OMOP Genomic;Measurement
+GATA2;mutation indicator, NGS;GATA2 gene full mutation analysis;95771-2;LOINC;Measurement
+GNAS;mutation indicator, NGS;GNAS1 gene targeted mutation analysis;41758-4;LOINC;Measurement
+HB;Hemoglobin;Hemoglobin [Moles/volume] in Blood;59260-0;LOINC;Measurement
+HB;Hemoglobin;Hemoglobin[Mass/volume] in Blood;718-7;LOINC;Measurement
+HRAS;mutation indicator, NGS;HRAS gene targeted mutation analysis;53871-0;LOINC;Measurement
+IDH1;IDH1 mutation status;IDH1& IDH2 full mutation analysis;104323-1;LOINC;Measurement
+IDH1;IDH1 mutation status;IDH1 gene & IDH2 gene targeted mutation analysis;95772-0;LOINC;Measurement
+IDH2;IDH2 mutation status;IDH1& IDH2 full mutation analysis;104323-1;LOINC;Measurement
+IDH2;IDH2 mutation status;IDH1 gene & IDH2 gene targeted mutation analysis;95772-0;LOINC;Measurement
+IKZF1;mutation indicator, NGS;IKZF1 (IKAROS family zinc finger 1) gene;35955904;OMOP Genomic;Measurement
+JAK2;Jak2 Mutation;JAK2 gene.p.Val617Phe mutant/normal;53761-3;LOINC;Measurement
+KDM6A;mutation indicator, NGS;KDM6A (lysine demethylase 6A) gene variant;35955661;OMOP Genomic;Measurement
+KIT;mutation indicator, NGS;KIT gene targeted mutation analysis;55201-8;LOINC;Measurement
+KRAS;mutation indicator, NGS;KRAS Somatic mutation analysis;103955-1;LOINC;Measurement
+MPL;mutation indicator, NGS;MPL gene mutations tested for in Blood or Tissue by Molecular genetics method Nominal;62948-5;LOINC;Measurement
+MPL;mutation indicator, NGS;MPL gene mutations tested for in Bone marrow by Molecular genetics method Nominal;75033-1;LOINC;Measurement
+MYD88;mutation indicator, NGS;MYD88 gene targeted mutation analysis;96969-1;LOINC;Measurement
+NOTCH1;mutation indicator, NGS;NOTCH1 gene targeted mutation analysis;99126-5;LOINC;Measurement
+NPM1;NPM1 mutation status;NPM1 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal;54448-6;LOINC;Measurement
+NPM1;NPM1 mutation status;NPM1 gene mutations found [Identifier] in Bone marrow by Molecular genetics method Nomina;75034-9;LOINC;Measurement
+NRAS;mutation indicator, NGS;NRAS gene mutations found [Identifier] in Bone marrow by Molecular genetics method Nominal;53621-9;LOINC;Measurement
+NRAS;mutation indicator, NGS;NRAS gene mutations found [Identifier] in Colorectal cancer specimen by Molecular genetics method Nominal;85510-6;LOINC;Measurement
+OSSTAT;status variable for OSTM;;44804077;SNOMED;Observation
+OSTM;overall survival time;Overall Survival (Months);40482950;SNOMED;Observation
+PDGFRA;mutation indicator, NGS;PDGFRA gene targeted mutation analysis;104293-6;LOINC;Measurement
+PHF6;mutation indicator, NGS;PHF6 (PHD finger protein 6) gene variant measurement;35950722;OMOP Genomic;Measurement
+PLT;Platelets [#/volume] in Blood;platelet count;26515-7;LOINC;Measurement
+PTEN;mutation indicator, NGS;PTEN gene [VCF] in Cancer specimen by Sequencing;83063-8;LOINC;Measurement
+PTEN;mutation indicator, NGS;PTEN gene [Presence] in Cancer specimen by FISH;81710-6;LOINC;Measurement
+PTPN11;mutation indicator, NGS;PTPN11 gene targeted mutation analysis in Blood or Tissue by Molecular genetics method;34679-1;LOINC;Measurement
+PTPN11;mutation indicator, NGS;PTPN11 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal;41065-1;LOINC;Measurement
+RAD21;mutation indicator, NGS;RAD21 (RAD21 cohesin complex component) gene variant measurement;35953192;OMOP Genomic;Measurement
+RUNX1;mutation indicator, NGS;RUNX1 (RUNX family transcription factor 1);35959479;OMOP Genomic;Measurement
+SETBP1;mutation indicator, NGS;SETBP1 gene targeted mutation analysis;100024-9;LOINC;Measurement
+SF3B1;mutation indicator, NGS;SF3B1 gene targeted mutation analysis;99129-9;LOINC;Measurement
+SMC1A;mutation indicator, NGS;SMC1A gene targeted mutation analysis;53896-7;LOINC;Measurement
+SMC3;mutation indicator, NGS;SMC3 (structural maintenance of chromosomes 3) gene variant measurement;35959752;OMOP Genomic;Measurement
+SRSF2;mutation indicator, NGS;SRSF2 gene targeted mutation analysis;100025-6;LOINC;Measurement
+STAG2;mutation indicator, NGS;STAG2 (stromal antigen 2) gene variant measurement;35953392;OMOP Genomic;Measurement
+SUBJID;subject identifier;;;;
+TET2;mutation indicator, NGS;TET2 (tet methylcytosine dioxygenase 2) gene variant measurement;35957947;OMOP Genomic;Measurement
+TP53;mutation indicator, NGS;TP53 gene full mutation analysis in Blood or Tissue by Molecular genetics method;103680-5;LOINC;Measurement
+TP53;mutation indicator, NGS;TP53 gene mutations found [Identifier] in Blood or Tissue by Molecular genetics method Nominal;21739-8;LOINC;Measurement
+U2AF1;mutation indicator, NGS;U2AF1 (U2 small nuclear RNA auxiliary factor 1) gene variant measurement;35958923;SNOMED;Observation
+WBC;white blood count;White blood cell count;4298431;SNOMED;Measurement
+WT1;mutation indicator, NGS;WT1 gene targeted mutation analysis;21742-2;LOINC;Measurement
+ZRSR2;mutation indicator, NGS;ZRSR2 (zinc finger CCCH-type, RNA binding motif and serine/arginine rich 2) gene variant measurement;35951184;;
+inv16_t16.16;mutation indicator, cytogenetics;"inv(16)(p13.1;q22.1)(MYH11,CBFB) fusion transcript [Presence] in Bone marrow by Molecular genetics method";448116901;LOINC;Measurement
+T8.21;mutation indicator, cytogenetics;"t(8;21)(q22;q22.3)(RUNX1T1,RUNX1) fusion transcript in Blood or Tissue by FISH";46236750;LOINC;Measurement
+t.6.9..p23.q34.;mutation indicator, cytogenetics;"t(6;9)(p22;q34)(DEK,NUP214) fusion transcript in Blood or Tissue by FISH";46236752;LOINC;Measurement
+inv.3..q21.q26.2;mutation indicator, cytogenetics;"inv(3)(q21;q26.2)+t(3;3)(q21;q26.2)(PSMD2,MECOM) fusion transcript in Blood or Tissue by FISH";46236751;LOINC;Measurement
+Minus.5;mutation indicator, cytogenetics;Monosomy;4311407;SNOMED;Observation
+del.5q.;mutation indicator, cytogenetics;Del(5)(q12-35) gene deletion;42715-3;LOINC;Measurement
+t.9.22..q34.q11.;mutation indicator, cytogenetics;"t(9;22)(q34.1;q11)(ABL1,BCR) fusion transcript in Blood or Tissue by FISH";3041541;LOINC;Measurement
+Minus.7;mutation indicator, cytogenetics;Monosomy;4311407;SNOMED;Observation
+Minus.17;mutation indicator, cytogenetics;Monosomy;4311408;SNOMED;Observation
+t.v.11..v.q23.;mutation indicator, cytogenetics;"Karyotype t(v;11q23) measurement";36017899;OMOP Genomic;Measurement
+t.9.11..p21.23.q23.;mutation indicator, cytogenetics;"t(10;11)(p12;q23)(MLLT10,MLL) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method";40764964;LOINC;Measurement
+t.3.5;mutation indicator, cytogenetics;"(3;5)(q25.1;q35.1)(MLF1,NPM1) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method";42868749;LOINC;Measurement
+t.6.11.;mutation indicator, cytogenetics;"t(6;11)(q27;q23)(MLLT4,MLL) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method";42868752;LOINC;Measurement
+t.10.11.;mutation indicator, cytogenetics;"t(10;11)(p12;q23)(MLLT10,MLL) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method";40764964;LOINC;Measurement
+t.11.19..q23.p13.;mutation indicator, cytogenetics;"t(11;19)(q23;p13.1)(MLL,ELL) fusion transcript [Presence] in Blood or Tissue by Molecular genetics method";42868757;LOINC;Measurement
+del.7q.;mutation indicator, cytogenetics;Deletion of part of chromosome 7;37111439;SNOMED;condition_occurence
+del.9q.;mutation indicator, cytogenetics;Deletion of part of chromosome 9;37111441;SNOMED;condition_occurence
+Trisomy 8;mutation indicator, cytogenetics;Chromosome 8 trisomy;36907-4;LOINC;Measurement
+trisomy21;mutation indicator, cytogenetics;trimosy21;42539721;SNOMED;Observation
+minus.Y;mutation indicator, cytogenetics;Monosomy X;42537875;SNOMED;Observation
+minus.X;mutation indicator, cytogenetics;Monosomy;4311407;SNOMED;Observation
